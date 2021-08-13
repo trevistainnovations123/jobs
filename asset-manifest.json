@@ -1,23 +1,37 @@
 {
   "files": {
-    "main.css": "/jobs/static/css/main.a617e044.chunk.css",
-    "main.js": "/jobs/static/js/main.8c5379e5.chunk.js",
-    "main.js.map": "/jobs/static/js/main.8c5379e5.chunk.js.map",
-    "runtime-main.js": "/jobs/static/js/runtime-main.aad35960.js",
-    "runtime-main.js.map": "/jobs/static/js/runtime-main.aad35960.js.map",
-    "static/js/2.0776a14c.chunk.js": "/jobs/static/js/2.0776a14c.chunk.js",
-    "static/js/2.0776a14c.chunk.js.map": "/jobs/static/js/2.0776a14c.chunk.js.map",
-    "static/js/3.dd157172.chunk.js": "/jobs/static/js/3.dd157172.chunk.js",
-    "static/js/3.dd157172.chunk.js.map": "/jobs/static/js/3.dd157172.chunk.js.map",
+    "main.css": "/jobs/static/css/main.ac4a99a3.chunk.css",
+    "main.js": "/jobs/static/js/main.14d6a2c6.chunk.js",
+    "main.js.map": "/jobs/static/js/main.14d6a2c6.chunk.js.map",
+    "runtime-main.js": "/jobs/static/js/runtime-main.fccda25c.js",
+    "runtime-main.js.map": "/jobs/static/js/runtime-main.fccda25c.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/jobs/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.0a9d790b.chunk.js": "/jobs/static/js/2.0a9d790b.chunk.js",
+    "static/js/2.0a9d790b.chunk.js.map": "/jobs/static/js/2.0a9d790b.chunk.js.map",
+    "static/js/3.c876d0cc.chunk.js": "/jobs/static/js/3.c876d0cc.chunk.js",
+    "static/js/3.c876d0cc.chunk.js.map": "/jobs/static/js/3.c876d0cc.chunk.js.map",
     "index.html": "/jobs/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/jobs/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/jobs/static/js/2.0776a14c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/jobs/static/media/logo.6ce24c58.svg"
+    "static/css/2.ef9168ec.chunk.css.map": "/jobs/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.ac4a99a3.chunk.css.map": "/jobs/static/css/main.ac4a99a3.chunk.css.map",
+    "static/js/2.0a9d790b.chunk.js.LICENSE.txt": "/jobs/static/js/2.0a9d790b.chunk.js.LICENSE.txt",
+    "static/media/Chief.74d51fa2.gif": "/jobs/static/media/Chief.74d51fa2.gif",
+    "static/media/background.59a601a9.jpg": "/jobs/static/media/background.59a601a9.jpg",
+    "static/media/executive.b9f4f157.jpeg": "/jobs/static/media/executive.b9f4f157.jpeg",
+    "static/media/jobListbackground.a67584fc.jpg": "/jobs/static/media/jobListbackground.a67584fc.jpg",
+    "static/media/login.f1c7cf53.gif": "/jobs/static/media/login.f1c7cf53.gif",
+    "static/media/managing.db4fab9c.png": "/jobs/static/media/managing.db4fab9c.png",
+    "static/media/servicesIcon.8c21150d.svg": "/jobs/static/media/servicesIcon.8c21150d.svg",
+    "static/media/servicesIcon2.31339e4f.svg": "/jobs/static/media/servicesIcon2.31339e4f.svg",
+    "static/media/servicesIcon3.63a7608c.svg": "/jobs/static/media/servicesIcon3.63a7608c.svg",
+    "static/media/servicesIcon4.5a269793.svg": "/jobs/static/media/servicesIcon4.5a269793.svg",
+    "static/media/servicesIcon5.62258302.svg": "/jobs/static/media/servicesIcon5.62258302.svg",
+    "static/media/servicesIcon6.d4f806de.svg": "/jobs/static/media/servicesIcon6.d4f806de.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aad35960.js",
-    "static/js/2.0776a14c.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.8c5379e5.chunk.js"
+    "static/js/runtime-main.fccda25c.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.0a9d790b.chunk.js",
+    "static/css/main.ac4a99a3.chunk.css",
+    "static/js/main.14d6a2c6.chunk.js"
   ]
 }
